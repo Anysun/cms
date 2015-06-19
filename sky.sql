@@ -75,7 +75,6 @@ VALUES
 	(5,'sky','a034d59459461760d068ae00fb4d9d31',1,'sb','sb@sb.com',1427963542,1427963549),
 	(6,'sky','ef0eac32c0334ebeda81bf573a95b4f9',1,'awhdad','audyawdya@skdjas.com',1428027612,1427972737),
 	(8,'sky','df9d64410878bbf60b9d3bb4316e7aeb',1,'akwdnaw','awd@aa.com',1428480438,1427977599),
-	(9,'sky','6a9421c8563e9dfdcc548f0df5c1d310',1,'sgk','319777311@qq.com',1428027960,1427977599),
 	(10,'sky','de6ab511fb643091f76458ba74f42749',1,'awdklamdnawkljdlk','idhjakwhdha@q.com',1428480597,1427977599),
 	(11,'sky','86a0dcf44abfe7f1e586c4515d80a211',0,NULL,NULL,0,1427977599),
 	(12,'sky','4025ef6fb9ef94dfe9676807a956081c',0,NULL,NULL,0,1427977636),
